@@ -1,25 +1,11 @@
-# About Hunterz application templates
+# Local Sandbox for Local Sandbox for Applications with specific features for Windows based Operating Systems
 
 (To do...)
 One Paragraph of project description goes here
 
 ## Getting Started
 
-* [Android](./app/android/)
-* [console](./app/console/)
-* [hybrid](./app/hybrid/)
-* [ios](./app/ios/)
-* [linux](./app/linux/)
-* [linux64](./app/linux64/)
-* [linuxarmv6l](./app/linuxarmv6l/)
-* [linuxarmv7l](./app/linuxarmv7l/)
-* [msys2](./app/msys2/)
-* [osx](./app/osx/)
-* [raspberry](./app/raspberry/)
-* [tv_os](./app/tv_os/)
-* [universal](./app/universal/)
-* [windows](./app/windows/)
-* [winphone](./app/winphone/)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisities
 
