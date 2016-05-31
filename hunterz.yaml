@@ -1,0 +1,38 @@
+# Luc Michalski - 2916
+app:
+    title:
+    short_description:
+    status:
+    tags:
+
+builds:
+  ios:
+    status:
+    toolcahin_version:
+    archs:
+    comments:
+
+  android:
+    status:
+    toolcahin_version:
+    archs:
+    comments:
+
+  xcode:
+    status:
+    toolcahin_version:
+    archs:
+    comments:
+
+groups:
+  default:
+    - ios
+  xcode:
+    - osx
+    - ios
+  android:
+    - android 
+  windows:
+    - vs
+  libcxx:
+    - vs
